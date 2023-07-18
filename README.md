@@ -39,9 +39,11 @@ Imbalanced-learn
 
 ## File Descriptions 
 
-### Starbucks_capstone_project.ipynb: Jupyter notebook containing the data exploration, preprocessing, model training, and evaluation.
+### Starbucks_capstone_project.ipynb: 
 
-### data/: Directory containing the data for the project. 
+Jupyter notebook containing the data exploration, preprocessing, model training, and evaluation.
+
+### data: Directory containing the data for the project. 
 
 It includes the following files:
 
@@ -51,7 +53,7 @@ It includes the following files:
 
 **transcript.json**: records for transactions, offers received, offers viewed, and offers completed
 
-### `Starbucks_capstone_project.html` -  HTML version of the jupyter notebook.
+### Starbucks_capstone_project.html -  HTML version of the jupyter notebook.
 
 ## Results
 
